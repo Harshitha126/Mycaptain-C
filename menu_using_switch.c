@@ -21,5 +21,7 @@
      case 5:
         printf("Food Item - Chocolate Mousse \n Price - Rs 160 \n");
         break;
+     default:
+       printf("Food Item - Macaroni \n Price - Rs 100 \n");
      }
  }
